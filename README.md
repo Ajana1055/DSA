@@ -13,6 +13,7 @@ Leetcode and GeeksForGeeks
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Ajana1055/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,10 +56,12 @@ Leetcode and GeeksForGeeks
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Ajana1055/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajana1055/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Ajana1055/DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +71,12 @@ Leetcode and GeeksForGeeks
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
