@@ -20,4 +20,8 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajana1055/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/Ajana1055/DSA/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
