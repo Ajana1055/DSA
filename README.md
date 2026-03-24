@@ -36,4 +36,12 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ajana1055/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ajana1055/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
