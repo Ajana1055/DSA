@@ -12,6 +12,7 @@ Leetcode and GeeksForGeeks
 | [0027-remove-element](https://github.com/Ajana1055/DSA/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Ajana1055/DSA/tree/main/0039-combination-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0039-combination-sum](https://github.com/Ajana1055/DSA/tree/main/0039-combination-sum/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
