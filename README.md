@@ -20,6 +20,7 @@ Leetcode and GeeksForGeeks
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajana1055/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Ajana1055/DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Ajana1055/DSA/tree/main/0020-valid-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,4 +45,8 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajana1055/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Ajana1055/DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
