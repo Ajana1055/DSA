@@ -8,7 +8,7 @@ class Solution {
             if (map.containsKey(nums[i]) && i - map.get(nums[i]) <= k) {
                 return true;
             }
-            map.put(nums[i], i); // Update index of the number
+            map.put(nums[i], i); // Update index of the number xxxxxxxxxxxxxxx
         }
         
         return false;
