@@ -14,6 +14,7 @@ Leetcode and GeeksForGeeks
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/Ajana1055/DSA/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/Ajana1055/DSA/tree/main/0046-permutations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +46,7 @@ Leetcode and GeeksForGeeks
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Ajana1055/DSA/tree/main/0039-combination-sum/) | Medium |
+| [0046-permutations](https://github.com/Ajana1055/DSA/tree/main/0046-permutations/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
