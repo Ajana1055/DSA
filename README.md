@@ -42,6 +42,7 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ajana1055/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0050-powx-n](https://github.com/Ajana1055/DSA/tree/main/0050-powx-n/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,4 +87,8 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Ajana1055/DSA/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
