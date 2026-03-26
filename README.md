@@ -16,6 +16,7 @@ Leetcode and GeeksForGeeks
 | [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Ajana1055/DSA/tree/main/0046-permutations/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Ajana1055/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/Ajana1055/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ Leetcode and GeeksForGeeks
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajana1055/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Ajana1055/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Leetcode and GeeksForGeeks
 | [0009-palindrome-number](https://github.com/Ajana1055/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Ajana1055/DSA/tree/main/0050-powx-n/) | Medium |
 | [0263-ugly-number](https://github.com/Ajana1055/DSA/tree/main/0263-ugly-number/) | Easy |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@ Leetcode and GeeksForGeeks
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +97,12 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Ajana1055/DSA/tree/main/0050-powx-n/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
