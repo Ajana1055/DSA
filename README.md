@@ -44,6 +44,7 @@ Leetcode and GeeksForGeeks
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Ajana1055/DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Ajana1055/DSA/tree/main/0050-powx-n/) | Medium |
+| [0263-ugly-number](https://github.com/Ajana1055/DSA/tree/main/0263-ugly-number/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
