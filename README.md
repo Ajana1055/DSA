@@ -110,4 +110,8 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Ajana1055/DSA/tree/main/0155-min-stack/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0197-rising-temperature](https://github.com/Ajana1055/DSA/tree/main/0197-rising-temperature/) | Easy |
 <!---LeetCode Topics End-->
