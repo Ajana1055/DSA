@@ -17,6 +17,7 @@ Leetcode and GeeksForGeeks
 | [0046-permutations](https://github.com/Ajana1055/DSA/tree/main/0046-permutations/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/Ajana1055/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Ajana1055/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@ Leetcode and GeeksForGeeks
 | [0020-valid-parentheses](https://github.com/Ajana1055/DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajana1055/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/Ajana1055/DSA/tree/main/0058-length-of-last-word/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,20 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Ajana1055/DSA/tree/main/0197-rising-temperature/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
+## Eulerian Circuit
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 <!---LeetCode Topics End-->
