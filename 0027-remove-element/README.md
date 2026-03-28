@@ -36,7 +36,7 @@ for (int i = 0; i &lt; actualLength; i++) {
 <strong>Output:</strong> 2, nums = [2,2,_,_]
 <strong>Explanation:</strong> Your function should return k = 2, with the first two elements of nums being 2.
 It does not matter what you leave beyond the returned k (hence they are underscores).
-</pre>
+</pre>   
 
 <p><strong class="example">Example 2:</strong></p>
 
