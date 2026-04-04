@@ -25,6 +25,7 @@ Leetcode and GeeksForGeeks
 | [0001-two-sum](https://github.com/Ajana1055/DSA/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ajana1055/DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ajana1055/DSA/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Ajana1055/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Ajana1055/DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 ## String
@@ -64,6 +65,7 @@ Leetcode and GeeksForGeeks
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ajana1055/DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/Ajana1055/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@ Leetcode and GeeksForGeeks
 | [0027-remove-element](https://github.com/Ajana1055/DSA/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ajana1055/DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Ajana1055/DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0141-linked-list-cycle](https://github.com/Ajana1055/DSA/tree/main/0141-linked-list-cycle/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
