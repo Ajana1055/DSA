@@ -2,7 +2,7 @@
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-
+ 
 <pre>
 <strong>Input:</strong> x = 2.00000, n = 10
 <strong>Output:</strong> 1024.00000
