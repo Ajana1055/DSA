@@ -19,6 +19,7 @@ Leetcode and GeeksForGeeks
 | [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
 | [0332-reconstruct-itinerary](https://github.com/Ajana1055/DSA/tree/main/0332-reconstruct-itinerary/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/Ajana1055/DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0704-binary-search](https://github.com/Ajana1055/DSA/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Leetcode and GeeksForGeeks
 | [0033-search-in-rotated-sorted-array](https://github.com/Ajana1055/DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Ajana1055/DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/Ajana1055/DSA/tree/main/0268-missing-number/) | Easy |
+| [0704-binary-search](https://github.com/Ajana1055/DSA/tree/main/0704-binary-search/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
